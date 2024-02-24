@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a lecturer at the Amsterdam University of Applied Sciences, where I teach courses in Computer Science and business. My main focus these days is in (applied) Artificial Intelligence (AI) and most of my notes and tutorials on these subjects.
