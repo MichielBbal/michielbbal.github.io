@@ -49,6 +49,6 @@ The promise of AI was that AI systems learns rules from examples. As the current
 # What's next?
 With the rise of Diffusion Video models, such as OpenAI's Sora, creating good world models have become crucial. OpenAI explains this as follows: 
 
-*We find that video models exhibit a number of interesting *emergent capabilities* when trained at scale. These capabilities enable Sora to simulate some aspects of people, animals and environments from the physical world.*
+*We find that video models exhibit a number of interesting **emergent capabilities** when trained at scale. These capabilities enable Sora to simulate some aspects of people, animals and environments from the physical world.*
 
-I highlighted 'emergent capabilities' as this might be possible but still seems like a black box to me. 
+I highlighted 'emergent capabilities' as this might be possible but still seems like a black box to me. The challenge of producing models that have a real understanding of the world might still be some years away.
