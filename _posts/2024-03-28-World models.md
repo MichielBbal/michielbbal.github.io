@@ -24,8 +24,6 @@ of both spatial and temporal aspects of this information.
 
 So we, as humans (and other animals) create an abstract representation of the world around us. AI systems do the same. With big differences between how humans and AI systems do this, off course. 
 
-
-
 # Why is this important? 
 
 The current generation of image generators (Dall-e, Midjourney, Stable Diffusion etc) does not have a good mental model of the physical world, resulting in images that are generated. Some examples below.
@@ -52,13 +50,12 @@ With the rise of Diffusion Video models, such as OpenAI's Sora, creating good wo
 *We find that video models exhibit a number of interesting **emergent capabilities** when trained at scale. These capabilities enable Sora to simulate some aspects of people, animals and environments from the physical world.*
 
 I highlighted 'emergent capabilities' as this might be possible but still seems like a black box to me. How does this work and how can we check this? At this moment (march 2024) we lack knowledge and we lack insight into how this might work. 
-
+<img src="hands.png" width="800" />
 
 
 #
-
 [def]: world_model.png "World model"
 [def2]: /chair_at_beach.png
 [def3]: /hands.png
-[def4]: ./_posts/hands.png
+[def4]: /_posts/hands.png
 [def5]: ./blob/main/_posts/chair_at_beach.png
