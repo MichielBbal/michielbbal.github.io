@@ -51,7 +51,7 @@ With the rise of Diffusion Video models, such as OpenAI's Sora, creating good wo
 
 I highlighted 'emergent capabilities' as this might be possible but still seems like a black box to me. How does this work and how can we check this? At this moment (march 2024) we lack knowledge and we lack insight into how this might work. 
 <img src="hands.png" width="800" />
-
+![alt title](https://github.com/MichielBbal/michielbbal.github.io/blob/main/_posts/chair_at_beach.png?raw=true)
 <img title="hands" alt="Alt text" src="/_posts_/hands.png">
 #
 [def]: world_model.png "World model"
