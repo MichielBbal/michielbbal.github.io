@@ -24,7 +24,7 @@ of both spatial and temporal aspects of this information.
 
 So we, as humans (and other animals) create an abstract representation of the world around us. AI systems do the same. With big differences between how humans and AI systems do this, off course. 
 
-!["A chair on the beach at sunset"][chair_at_beach.png]
+![A chair on the beach at sunset][chair_at_beach.png]
 
 # Why is this important? 
 
