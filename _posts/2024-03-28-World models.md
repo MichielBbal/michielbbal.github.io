@@ -40,7 +40,7 @@ Below is are three images of 'a chair on the beach at sunset' (ChatGPT, March 20
 
 The most famous case where GenAI get's things wrong is hands. Hands are difficult. See the examples below. Very often AI generated images has 6 or just 4 fingers. Models do not understand what every 2 year old knows. This is big failure.
 
-![Hands with more than five fingers][def4]
+![Hands with more than five fingers](/_posts/hands.png)
 
 The promise of AI was that AI systems learns rules from examples. As the current generation of AI models fails to learn that a hand has 5 fingers, is it than able to learn anything?
 
