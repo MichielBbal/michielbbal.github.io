@@ -24,7 +24,7 @@ of both spatial and temporal aspects of this information.
 
 So we, as humans (and other animals) create an abstract representation of the world around us. AI systems do the same. With big differences between how humans and AI systems do this, off course. 
 
-!(Chairs at the beach)[./chair_at_beach.png "A chair on the beach at sunset"]
+!["A chair on the beach at sunset"][chair_at_beach.png]
 
 # Why is this important? 
 
@@ -40,7 +40,7 @@ I'll give two other examples for understanding the physical world: shade and han
 
 Below is are three images of 'a chair on the beach at sunset' (ChatGPT, March 2024). At first glance this looks remarkably good: we see a beach, a sun just above the horizonn, and the shade of the chair on the beach. But a deeper look reveals that the shade is problematic. It creates lines that are not correct. Simple conclusion: it's working but there are issues. 
 
-![Chairs at the beach](/chair_at_beach.png "A chair on the beach at sunset")
+![Chairs at the beach][def2]
 
 The most famous case where GenAI get's things wrong is hands. Hands are difficult. See the examples below. Very often AI generated images has 6 or just 4 fingers. Models do not understand what every 2 year old knows. This is big failure.
 
@@ -60,3 +60,4 @@ I highlighted 'emergent capabilities' as this might be possible but still seems 
 #
 
 [def]: world_model.png "World model"
+[def2]: /chair_at_beach.png
