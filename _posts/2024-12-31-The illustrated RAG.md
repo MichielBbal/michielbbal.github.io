@@ -2,6 +2,7 @@
 
 A tuturial on Retrieval Augmented Generation (RAG)
 
+![test](/_posts/chair_at_beach.png)
 ## Introduction
 
 ## The process flow of RAG
