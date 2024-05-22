@@ -38,7 +38,7 @@ I'll give two other examples for understanding the physical world: shade and han
 
 Below is are three images of 'a chair on the beach at sunset' (ChatGPT, March 2024). At first glance this looks remarkably good: we see a beach, a sun just above the horizonn, and the shade of the chair on the beach. But a deeper look reveals that the shade is problematic. It creates lines that are not correct. Simple conclusion: it's working but there are issues. 
 
-![A chair on the beach at sunset](https://github.com/MichielBbal/michielbbal.github.io/blob/main/_posts/chair_at_beach.png)
+!['A chair on the beach at sunset'][def5]
 
 The most famous case where GenAI get's things wrong is hands. Hands are difficult. See the examples below. Very often AI generated images has 6 or just 4 fingers. Models do not understand what every 2 year old knows. This is big failure.
 
@@ -61,3 +61,4 @@ I highlighted 'emergent capabilities' as this might be possible but still seems 
 [def2]: /chair_at_beach.png
 [def3]: /hands.png
 [def4]: ./_posts/hands.png
+[def5]: ./blob/main/_posts/chair_at_beach.png
