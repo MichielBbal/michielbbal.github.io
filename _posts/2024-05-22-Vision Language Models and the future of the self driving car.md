@@ -22,7 +22,8 @@ So for example to learn a car to detect the STOP sign, you collect many images, 
 
 Take for example this guy on instagram. He wears a t-shirt with a stop sign. Guess what the self-driving taxi does? It recognises the stop sign and stops. WRONG! It couldn't make a distinction between a t-shirt and a real traffic sign. 
 
-See this Instagram post by jasonbcarr: https://www.instagram.com/reel/C5O_hV8v9bi/?utm_source=ig_embed
+See this Instagram post by jasonbcarr: 
+[jasonbcarr on insta](https://www.instagram.com/reel/C5O_hV8v9bi/?utm_source=ig_embed)
 
 # Vision Language Models to the rescue! 
 Recently a new class of models have become very popular: Vision Language Models. These models are a combination, as the name suggests, of vision and language. 
@@ -31,9 +32,10 @@ It takes an image as input and it describes the image for you. So, in our exampl
 
 "The man in the image is standing on the sidewalk, wearing a hat and a stop sign shirt." (Model = Kosmos-2) This  model can make the distinction between a real traffic sign and a man wearing at funny t-shirt! 
 
-Try this yourself at https://huggingface.co/spaces/merve/compare_VLMs 
+Try this yourself at 
+[hf spaces](https://huggingface.co/spaces/merve/compare_VLMs)
 
 Try my notebook on the subject so you can see for yourself:
 
-https://github.com/MichielBbal/ollama/blob/main/ollama_llava_self_driving_car.ipynb 
+[notebook](https://github.com/MichielBbal/ollama/blob/main/ollama_llava_self_driving_car.ipynb) 
 
