@@ -26,7 +26,9 @@ So we, as humans (and other animals) create an abstract representation of the wo
 
 # Why is this important? 
 
-The current generation of image generators (Dall-e, Midjourney, Stable Diffusion etc) does not have a good mental model of the physical world, resulting in images that are generated. Some examples below.
+The current generation of image generators (Dall-e, Midjourney, Stable Diffusion etc) does not have a good mental model of the physical world, resulting in images that are generated wrongly. 
+
+![a glass half full?](https://github.com/MichielBbal/michielbbal.github.io/blob/main/_posts/glass_half_full.jpg?raw=true)
 
 The image above is a glass half full of water. But the image generator fails to capture what we humans all know: gravity makes that the bottom half of the glass is full of water, not the left or right half. And yes, as ChatGPT explained itself, it understands half full in a incorrect way:
 
@@ -47,7 +49,6 @@ The promise of AI was that AI systems learns rules from examples. As the current
 # What's next?
 With the rise of Diffusion Video models, such as OpenAI's Sora, creating good world models have become crucial. OpenAI explains this as follows: 
 
-*We find that video models exhibit a number of interesting **emergent capabilities** when trained at scale. These capabilities enable Sora to simulate some aspects of people, animals and environments from the physical world.*
+*We find that video models exhibit a number of interesting *emergent capabilities* when trained at scale. These capabilities enable Sora to simulate some aspects of people, animals and environments from the physical world.*
 
-I highlighted 'emergent capabilities' as this might be possible but still seems like a black box to me. How does this work and how can we check this? At this moment (march 2024) we lack knowledge and we lack insight into how this might work. 
-
+I highlighted 'emergent capabilities' as this might be possible but still seems like a black box to me. 
